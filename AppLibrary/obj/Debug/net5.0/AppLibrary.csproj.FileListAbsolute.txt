@@ -1,0 +1,12 @@
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\bin\Debug\net5.0\AppLibrary.deps.json
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\bin\Debug\net5.0\AppLibrary.dll
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\bin\Debug\net5.0\ref\AppLibrary.dll
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\bin\Debug\net5.0\AppLibrary.pdb
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\AppLibrary.csproj.AssemblyReference.cache
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\AppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\AppLibrary.AssemblyInfoInputs.cache
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\AppLibrary.AssemblyInfo.cs
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\AppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\AppLibrary.dll
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\ref\AppLibrary.dll
+C:\Users\LTIUser\advanced-checkpoint-3\AppLibrary\obj\Debug\net5.0\AppLibrary.pdb

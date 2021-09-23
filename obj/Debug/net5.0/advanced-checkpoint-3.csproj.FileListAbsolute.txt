@@ -1,0 +1,5 @@
+C:\Users\LTIUser\advanced-checkpoint-3\obj\Debug\net5.0\advanced-checkpoint-3.csproj.AssemblyReference.cache
+C:\Users\LTIUser\advanced-checkpoint-3\obj\Debug\net5.0\advanced-checkpoint-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LTIUser\advanced-checkpoint-3\obj\Debug\net5.0\advanced-checkpoint-3.AssemblyInfoInputs.cache
+C:\Users\LTIUser\advanced-checkpoint-3\obj\Debug\net5.0\advanced-checkpoint-3.AssemblyInfo.cs
+C:\Users\LTIUser\advanced-checkpoint-3\obj\Debug\net5.0\advanced-checkpoint-3.csproj.CoreCompileInputs.cache
